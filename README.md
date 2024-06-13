@@ -19,6 +19,11 @@ Our team members:
 - Oscar Quintero - UI Artist
 - Valentina Arias - Sound Engineer
 
+# My Contributions
+- 3D design and modelling of gun, bullets, a pineapple granade, a chipote chillon and a blowdart that we're planing to use in future improvements.
+- Programming of cacti spawned in the direction of the player.
+- Programming of score and health discount when hit.
+
 # Development Kick-off
 Armed with enthusiasm and a clear concept, our team began the development process. We chose Unity[^2] as the game engine, leveraging its versatility and ease of use. The 3D assets and animations were crafted in Blender[^3], giving life to a cast of whimsical characters that would pop up and dance around in unexpected ways.
 
