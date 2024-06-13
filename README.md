@@ -6,6 +6,9 @@ Gear up for a laughter-filled rampage in "Wack-a-Shoot," armed with a rubber chi
      <img src="https://github.com/MethodCa/Wack-a-shoot/assets/15893276/1407aed3-f278-4176-9f7d-620905ea77e9" alt="Wack-A-Shoot">
 </p>
 
+## If you want to play it!
+"Wack-a-shoot" can be played on [itch.io](https://untitledpixel.itch.io/wack-a-shoot)
+
 # The Journey - Brainstorming and Conceptualization
 Our dev team - Untitled Pixel - got together in New Brunswick, Canada, eagerly anticipating the start of the 2024 Global Game Jam[^1]. With the theme "Make me laugh" announced, our team brainstormed ideas that would bring joy and laughter to players. After a lively debate, we settled on the concept of "Wack-a-shoot,", and "Wacky" elements, a quirky and humorous game that combines elements of wack-a-mole with shooting targets.
 
